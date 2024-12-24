@@ -42,7 +42,7 @@ The game focuses on:
 ### Setup
 
     git clone https://github.com/cypherguy/Asteroids.git
-    cd asteroids-game
+    cd Asteroids
     pip install -r requirements.txt
 
 ## Usage
