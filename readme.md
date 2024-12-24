@@ -11,7 +11,6 @@ A simple asteroids game built by following the Boot.dev course. This project use
 - [Installation](#installation)
 - [Usage](#usage)
 - [Controls](#controls)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -56,10 +55,6 @@ Run the game by executing:
 - **Arrow Keys** – Move the spaceship
 - **Spacebar** – Fire bullets
 - **Escape** – Pause/Quit
-
-## Screenshots
-
-Insert gameplay screenshots or GIFs here if possible.
 
 ## Contributing
 
